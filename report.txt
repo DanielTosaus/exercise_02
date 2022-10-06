@@ -1,0 +1,4 @@
+"name" "n_seq"
+"1" "Paracheirodon_axelrodi" "4354"
+"2" "Poecilia_sphenops" "2832"
+"3" "Hypostomus_plecostomus" "1444"
