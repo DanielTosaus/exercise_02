@@ -16,7 +16,8 @@ demultiplex <- function(fasta_f, fmids_list, rmids_list, sample_names){
   
   # We find reverse complement of MID and search for elements between MID and its reverse complement
   
-  
+  # rcf <- reverseComplement(fmids_list)
+  # rcr <- reverseComplement(rmids_list)
   
   stats <- data.frame(matrix(ncol = 2, nrow = 0))
   colnames(stats) <- c('name', 'n_seq')
